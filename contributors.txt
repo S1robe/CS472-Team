@@ -1,1 +1,5 @@
-Jacari Harper harpej3@unlv.nevada.edu
+
+First Name    Last Name     Email
+----------------------------------
+Garrett       Prentice      garrettprentice@tuta.io
+Jacari        Harper        harpej3@unlv.nevada.edu
